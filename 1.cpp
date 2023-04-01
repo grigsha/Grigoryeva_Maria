@@ -6,6 +6,7 @@ using namespace std;
 int main() {
     int n;
     int m;
+    cout << "hello" << endl;
     cout<<"Введите количество строк"<<endl;
     cin>>n;
     cout<<"Введите количество столбцов"<<endl;
